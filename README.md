@@ -58,5 +58,10 @@ Qualquer duvida pode perguntar diretamente na publicação: https://discord.com/
 
 Abra o arquivo index.html no seu navegador para visualizar a página.
 
+## Detalhes do projeto
+
+Fiz a interface pedida para o projeto usando bootstraap adicionando também uma página de recuperação de senha e um botão toggler para mostrar a senha. Também foi adicionado um botão para mudar o site para modo escuro.
+Fiz uso de IA em alguns pontos para correção e refinamento, a única parte que eu não entendo com 100% de certeza é a de manter o tema escuro de uma página para a outra, fora isso tudo está dentro de meu conhecimento.
+
 ## Nick Discord
 Discord do candidato: glitch_41
